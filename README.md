@@ -18,8 +18,6 @@ Full Stack Developer
 
 <br>
 
-### Contribution Activity
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/output/github-snake.svg">
