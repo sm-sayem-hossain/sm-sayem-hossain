@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/main/assets/profile.svg" width="140" height="140" alt="S. M. Sayem Hossain" />
+<img src="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/main/assets/profile.svg?v=2" width="140" height="140" alt="S. M. Sayem Hossain" />
+
+<br>
 
 <img src="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/main/assets/name.svg" width="560" alt="S. M. Sayem Hossain" />
 
