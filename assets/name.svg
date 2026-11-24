@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72" role="img" aria-label="S. M. Sayem Hossain">
+  <style>
+    text { fill: #1f2328; font-family: Inter, "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 44px; letter-spacing: 3px; }
+    @media (prefers-color-scheme: dark) { text { fill: #e6edf3; } }
+  </style>
+  <text x="320" y="52" text-anchor="middle">S. M. SAYEM HOSSAIN</text>
+</svg>
