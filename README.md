@@ -8,7 +8,7 @@
 
 Full Stack Developer
 
-<sub>CSE @ Daffodil International University<br>Narayanganj, Bangladesh</sub>
+<sub><img src="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/main/assets/edu.svg" width="13" height="13" alt="" /> CSE @ Daffodil International University<br><img src="https://raw.githubusercontent.com/sm-sayem-hossain/sm-sayem-hossain/main/assets/home.svg" width="13" height="13" alt="" /> Narayanganj, Bangladesh</sub>
 
 <br>
 
